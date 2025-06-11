@@ -2,6 +2,8 @@
 
  #Syntax 
 
+#can change the value (overwrite the values) in dic by use info[name] = "Knight"
+
 info = {
     "Name" : "Vivek Vishawakarma",
     "Age" : 20,
