@@ -9,4 +9,4 @@ info = {
     "Age" : 20,
 }
 
-print(info)
+print(type(info))
