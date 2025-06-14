@@ -1,11 +1,11 @@
 #include <iostream>
-using namaspace std;
+using namespace std;
 
 int main(){
   int me = 1;
-while(me <= 15){
-cout << me;
-me++;
-}
+  while(me <= 15){
+    cout << me;
+    me++;
+    }
 return 0;
 }
