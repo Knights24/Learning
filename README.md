@@ -1,2 +1,2 @@
 ﻿# pythonLearning
- #pip_install_new
+ #pip_install_
